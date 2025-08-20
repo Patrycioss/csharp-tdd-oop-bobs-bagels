@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		extension4.md = extension4.md
 		README.md = README.md
 		domain_model.md = domain_model.md
+		csharp-tdd-oop-bobs-bagels.drawio.png = csharp-tdd-oop-bobs-bagels.drawio.png
+		csharp-tdd-oop-bobs-bagels.drawio.svg = csharp-tdd-oop-bobs-bagels.drawio.svg
 	EndProjectSection
 EndProject
 Global

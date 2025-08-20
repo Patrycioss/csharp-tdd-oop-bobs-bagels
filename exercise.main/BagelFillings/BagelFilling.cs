@@ -4,6 +4,6 @@ public abstract class BagelFilling
 {
     public string Type => "Filling";
     public abstract string Name();
-    public abstract string GetAbbreviation();
-    public abstract decimal GetCost();
+    public abstract string Abbreviation();
+    public abstract decimal Cost();
 }

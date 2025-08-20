@@ -3,6 +3,6 @@
 public class SmokedSalmon : BagelFilling
 {
     public override string Name() => "SmokedSalmon";
-    public override string GetAbbreviation() => "FILS";
-    public override decimal GetCost() => new(0.12);
+    public override string Abbreviation() => "FILS";
+    public override decimal Cost() => new(0.12);
 }

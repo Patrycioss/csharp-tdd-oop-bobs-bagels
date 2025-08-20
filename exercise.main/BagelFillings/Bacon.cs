@@ -3,6 +3,6 @@
 public class Bacon : BagelFilling
 {
     public override string Name() => "Bacon";
-    public override string GetAbbreviation() => "FILB";
-    public override decimal GetCost() => new(0.12);
+    public override string Abbreviation() => "FILB";
+    public override decimal Cost() => new(0.12);
 }

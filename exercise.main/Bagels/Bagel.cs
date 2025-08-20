@@ -25,6 +25,6 @@ public abstract class Bagel
 
     public decimal GetTotalCost()
     {
-        return cost + Filling.GetCost();
+        return cost + Filling.Cost();
     }
 }
